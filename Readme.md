@@ -20,9 +20,16 @@ Callerid: Boris <123456789>
 MaxRetries: 5
 RetryTime: 5
 WaitTime: 10
+
+;; Executar qualquer contexto
 Context: default
 Extension: 1234
 Priority: 1
+
+;; Executar alguma aplicação
+Application: Playback
+Data: hello-world
+
 ```
 
 -----
