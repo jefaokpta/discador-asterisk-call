@@ -30,6 +30,9 @@ Priority: 1
 Application: Playback
 Data: hello-world
 
+;; Definindo variáveis
+Set: VARIAVEL=VALOR
+
 ```
 
 -----
